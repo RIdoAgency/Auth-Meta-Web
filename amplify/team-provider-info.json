@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-metaxweb-dev-135554-authRole",
+      "UnauthRoleArn": "arn:aws:iam::716917988872:role/amplify-metaxweb-dev-135554-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::716917988872:role/amplify-metaxweb-dev-135554-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-metaxweb-dev-135554-deployment",
+      "UnauthRoleName": "amplify-metaxweb-dev-135554-unauthRole",
+      "StackName": "amplify-metaxweb-dev-135554",
+      "StackId": "arn:aws:cloudformation:us-east-1:716917988872:stack/amplify-metaxweb-dev-135554/7892e4d0-0fa4-11ee-b9d3-0a3267bcd52f",
+      "AmplifyAppId": "d3g3q3yt99nz17"
+    },
+    "categories": {
+      "auth": {
+        "metaxweb9787e2bd": {}
+      }
+    }
+  }
+}
